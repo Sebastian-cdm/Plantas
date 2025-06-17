@@ -78,5 +78,3 @@
       <li><strong>Plagas y enfermedades:</strong> Araña roja, pulgones, hongos por humedad.</li>
     </ul>
   </section>
-
-</body>

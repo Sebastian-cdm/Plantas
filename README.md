@@ -1,5 +1,3 @@
-
-</head>
 <body>
   <h1>Guía de Cultivo Detallada para Plantas de Huerto</h1>
 
@@ -82,4 +80,3 @@
   </section>
 
 </body>
-</html>

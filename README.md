@@ -1,10 +1,15 @@
-<title>Guía de Cultivo de Plantas de Huerto</title>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guía de Cultivo de Plantas de Huerto</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 2rem;
-      background-color: #f9f9f9;
+      background-color: #f4f4f4;
       color: #333;
     }
     h1, h2 {
@@ -12,80 +17,98 @@
     }
     section {
       background: white;
-      padding: 1rem;
+      padding: 1.5rem;
       margin-bottom: 2rem;
       border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    ul {
+      margin-top: 0.5rem;
+    }
+    li {
+      margin-bottom: 0.4rem;
     }
   </style>
 </head>
 <body>
-  <h1>Guía de Cultivo de Plantas de Huerto</h1>
+  <h1>Guía de Cultivo Detallada para Plantas de Huerto</h1>
 
   <section>
     <h2>Menta (Mentha spicata)</h2>
-    <p><strong>Riego:</strong> Cada 2 días. Mantener humedad constante sin encharcar.</p>
-    <p><strong>Sol:</strong> Semisombra, 4-6 h luz indirecta.</p>
-    <p><strong>Sustrato:</strong> Tierra negra, compost y perlita. pH 6.0-7.0.</p>
-    <p><strong>Nutrientes:</strong> Rico en nitrógeno. Abono cada 15 días.</p>
-    <p><strong>Floración:</strong> Primavera-verano. Retirar para mantener sabor.</p>
-    <p><strong>Poda:</strong> Despuntes mensuales.</p>
-    <p><strong>Plagas:</strong> Pulgones, araña roja, roya.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Cada 2 días o cuando el sustrato esté seco en la superficie.</li>
+      <li><strong>Exposición solar:</strong> Semisombra, requiere al menos 4-6 horas de luz indirecta.</li>
+      <li><strong>Tipo de sustrato:</strong> Tierra negra con composta y perlita, buen drenaje y pH entre 6.0-7.0.</li>
+      <li><strong>Nutrientes:</strong> Alta demanda de nitrógeno; usar fertilizante líquido cada 15 días.</li>
+      <li><strong>Floración:</strong> Primavera-verano. Flor pequeña blanca o violeta; puede reducir el sabor.</li>
+      <li><strong>Podas:</strong> Despuntar cada mes para fomentar ramificación.</li>
+      <li><strong>Plagas y enfermedades:</strong> Pulgones, araña roja, roya.</li>
+    </ul>
   </section>
 
   <section>
     <h2>Orégano (Origanum vulgare)</h2>
-    <p><strong>Riego:</strong> Cada 4-5 días. Tolera sequía.</p>
-    <p><strong>Sol:</strong> Pleno sol, 6-8 h diarias.</p>
-    <p><strong>Sustrato:</strong> Arenoso, buen drenaje.</p>
-    <p><strong>Nutrientes:</strong> Pocos, evitar nitrógeno.</p>
-    <p><strong>Floración:</strong> Verano. Flores rosadas.</p>
-    <p><strong>Poda:</strong> Tras floración y cosechas.</p>
-    <p><strong>Plagas:</strong> Mosca blanca, ácaros.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Moderado. Cada 4-5 días. Evitar encharcamiento.</li>
+      <li><strong>Exposición solar:</strong> Pleno sol. Necesita mínimo 6-8 horas diarias.</li>
+      <li><strong>Tipo de sustrato:</strong> Suelo arenoso, seco, bien drenado. pH 6.0-8.0.</li>
+      <li><strong>Nutrientes:</strong> Bajo requerimiento. Evitar nitrógeno excesivo.</li>
+      <li><strong>Floración:</strong> Verano. Flores pequeñas rosadas o lilas.</li>
+      <li><strong>Podas:</strong> Cosechar antes de floración y cortar tallos viejos al final de temporada.</li>
+      <li><strong>Plagas y enfermedades:</strong> Mosca blanca, ácaros, pudrición por humedad.</li>
+    </ul>
   </section>
 
   <section>
     <h2>Acuyo (Piper auritum)</h2>
-    <p><strong>Riego:</strong> Cada 2 días. Necesita humedad.</p>
-    <p><strong>Sol:</strong> Sombra o semisombra.</p>
-    <p><strong>Sustrato:</strong> Rico en materia orgánica.</p>
-    <p><strong>Nutrientes:</strong> Alto nitrógeno.</p>
-    <p><strong>Floración:</strong> Verano/otoño.</p>
-    <p><strong>Poda:</strong> Ligera y constante.</p>
-    <p><strong>Plagas:</strong> Caracoles, hongos.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Cada 2 días, mantener el sustrato húmedo pero no encharcado.</li>
+      <li><strong>Exposición solar:</strong> Sombra o semisombra, no tolera sol directo fuerte.</li>
+      <li><strong>Tipo de sustrato:</strong> Rico en materia orgánica. Tierra negra, compost y fibra de coco.</li>
+      <li><strong>Nutrientes:</strong> Alto contenido de nitrógeno, fertilizante orgánico cada 2-3 semanas.</li>
+      <li><strong>Floración:</strong> Verano a otoño, flores blancas alargadas.</li>
+      <li><strong>Podas:</strong> Ligera para controlar tamaño y estimular brotes.</li>
+      <li><strong>Plagas y enfermedades:</strong> Caracoles, babosas, hongos.</li>
+    </ul>
   </section>
 
   <section>
     <h2>Cilantro (Coriandrum sativum)</h2>
-    <p><strong>Riego:</strong> Cada 2-3 días.</p>
-    <p><strong>Sol:</strong> Sol parcial o semisombra.</p>
-    <p><strong>Sustrato:</strong> Suelto, rico, pH 6.5-7.5.</p>
-    <p><strong>Nutrientes:</strong> Compost mensual.</p>
-    <p><strong>Floración:</strong> Rápida con calor.</p>
-    <p><strong>Poda:</strong> Cosecha frecuente.</p>
-    <p><strong>Plagas:</strong> Pulgones, mildiu.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Cada 2-3 días. Suelo siempre ligeramente húmedo.</li>
+      <li><strong>Exposición solar:</strong> Sol directo en la mañana o sombra parcial.</li>
+      <li><strong>Tipo de sustrato:</strong> Suelto, fértil, con buen drenaje. pH entre 6.5 y 7.5.</li>
+      <li><strong>Nutrientes:</strong> Moderados. Compost cada mes o fertilizante balanceado.</li>
+      <li><strong>Floración:</strong> Primavera-verano, flores blancas. Puede ser señal de fin del ciclo.</li>
+      <li><strong>Podas:</strong> Cosechar hojas constantemente para evitar espigado.</li>
+      <li><strong>Plagas y enfermedades:</strong> Pulgones, mildiu, mosca blanca.</li>
+    </ul>
   </section>
 
   <section>
     <h2>Tomate (Solanum lycopersicum)</h2>
-    <p><strong>Riego:</strong> Cada 2-3 días.</p>
-    <p><strong>Sol:</strong> Sol directo 6-8 h.</p>
-    <p><strong>Sustrato:</strong> Rico y profundo.</p>
-    <p><strong>Nutrientes:</strong> NPK y calcio.</p>
-    <p><strong>Floración:</strong> Segundo mes, flor amarilla.</p>
-    <p><strong>Poda:</strong> Quitar chupones.</p>
-    <p><strong>Plagas:</strong> Mosca blanca, hongos.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Cada 2-3 días. Regar directo al sustrato, no a las hojas.</li>
+      <li><strong>Exposición solar:</strong> Pleno sol, 6-8 h diarias mínimo.</li>
+      <li><strong>Tipo de sustrato:</strong> Suelo profundo, suelto y fértil. Mezcla de composta, tierra negra y perlita.</li>
+      <li><strong>Nutrientes:</strong> Alta demanda de NPK y calcio. Fertilizar cada 15 días desde floración.</li>
+      <li><strong>Floración:</strong> Segundo mes desde siembra. Flor amarilla.</li>
+      <li><strong>Podas:</strong> Quitar chupones, hojas viejas y mantener ventilación.</li>
+      <li><strong>Plagas y enfermedades:</strong> Mosca blanca, hongos, tizón tardío, gusano cogollero.</li>
+    </ul>
   </section>
 
   <section>
     <h2>Chayote (Sechium edule)</h2>
-    <p><strong>Riego:</strong> Cada 2-3 días.</p>
-    <p><strong>Sol:</strong> Pleno sol, tropical.</p>
-    <p><strong>Sustrato:</strong> Fértil, profundo.</p>
-    <p><strong>Nutrientes:</strong> Potasio y fósforo.</p>
-    <p><strong>Floración:</strong> A los 3-4 meses.</p>
-    <p><strong>Poda:</strong> Control de guías.</p>
-    <p><strong>Plagas:</strong> Araña roja, hongos.</p>
+    <ul>
+      <li><strong>Tipo de riego:</strong> Abundante cada 2-3 días. Aumentar durante fructificación.</li>
+      <li><strong>Exposición solar:</strong> Sol directo, ambiente cálido y húmedo.</li>
+      <li><strong>Tipo de sustrato:</strong> Profundo, fértil y húmedo. Tierra negra, estiércol y hojarasca.</li>
+      <li><strong>Nutrientes:</strong> Alto potasio y fósforo en floración. Usar bocashi o estiércol descompuesto.</li>
+      <li><strong>Floración:</strong> A los 3-4 meses. Flores masculinas y femeninas en la misma planta.</li>
+      <li><strong>Podas:</strong> Control de guías secundarias y hojas enfermas.</li>
+      <li><strong>Plagas y enfermedades:</strong> Araña roja, pulgones, hongos por humedad.</li>
+    </ul>
   </section>
 
 </body>
